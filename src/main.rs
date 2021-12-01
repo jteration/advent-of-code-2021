@@ -1,5 +1,7 @@
 #[path = "./day/1/solution.rs"]
 mod day_one;
+#[path = "./day/2/solution.rs"]
+mod day_two;
 
 fn main() {
     day_one::solution();
